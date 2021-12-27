@@ -1,7 +1,7 @@
 ### Olá, sou Fernando Guedes Dias
 
 - 🔭 Programmer
-- 🌱 Estudando Java , Javascript , Pyhton
+- 🌱 Estudando Java , Javascript , Python
 - 😄 Pronouns: ele/dele
 
 <div align="center">
